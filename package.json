@@ -1,5 +1,5 @@
 {
-  "name": "tarak-search-backend",
+  "name": "taraksearch-server",
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",
